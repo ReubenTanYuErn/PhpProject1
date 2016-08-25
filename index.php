@@ -7,11 +7,12 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Is this there?</title>
     </head>
     <body>
         <?php
         // put your code here
+        print 'Heyyyy';
         ?>
     </body>
 </html>
